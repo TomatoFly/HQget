@@ -1,0 +1,34 @@
+# 数据目录
+hsjday/
+tdxData/
+jbmDataV1/
+dist/
+build/
+*.day
+
+# 压缩文件
+*.zip
+
+# Python缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 数据库文件
+*.db
+*.sqlite
+*.sql
+
+# 日志文件
+*.log
+
+# IDE配置
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# 操作系统文件
+Thumbs.db
+.DS_Store
